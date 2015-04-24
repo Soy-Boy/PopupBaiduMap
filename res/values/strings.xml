@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PopupBaiduMap</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="enter">进入</string>
+    <string name="address">地址：</string>
+    <string name="tel">电话：</string>
+    <string name="detail">详情：</string>
+    <string name="search_nearby">在附近找</string>
+    <string name="to_there">到这里去</string>
+    <string name="from_here">从这里出发</string>
+</resources>
